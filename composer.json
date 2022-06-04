@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {
+        "clue/framework-x": "dev-main",
+        "twig/twig": "^3.4",
+        "symfony/string": "^6.1",
+        "symfony/translation-contracts": "^3.1",
+        "yiisoft/cookies": "^1.2",
+        "visavi/motor-orm": "^2.5"
+    }
+}

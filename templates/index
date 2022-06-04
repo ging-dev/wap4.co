@@ -1,0 +1,3 @@
+Hello world
+User-agent: {{ user_agent() }}
+Request method: {{ request_method() }}
